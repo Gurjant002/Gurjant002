@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub 👋
 
-<!--
-**Gurjant002/Gurjant002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Gurjant Singh, un apasionado del desarrollo de software y la tecnología. En este repositorio, encontrarás una variedad de proyectos en los que he estado trabajando, así como algunas contribuciones a proyectos de código abierto. Aquí hay un vistazo rápido a lo que encontrarás en este perfil:
 
-Here are some ideas to get you started:
+## Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [RestoManager](https://github.com/Gurjant002/restoManager.git): Una aplicación web desarrollada en Django y MySQL para optimizar la gestión de servicios en restaurantes.
+
+## Tecnologías que Utilizo
+
+- Lenguajes de Programación: Python, JavaScript, HTML/CSS.
+- Frameworks y Bibliotecas: Django, React, Bootstrap.
+- Herramientas de Desarrollo: Git, VSCode, Docker.
+
+## Contacto
+
+¡Si quieres saber más sobre mí o mis proyectos, no dudes en contactarme! Puedes encontrarme en [LinkedIn](https://es.linkedin.com/in/gurjant-singh-789254270).
+
+¡Gracias por visitar mi perfil!
+
