@@ -8,9 +8,8 @@
 
 ## Tecnologías que Utilizo
 
-- Lenguajes de Programación: Python, JavaScript, HTML/CSS.
-- Frameworks y Bibliotecas: Django, React, Bootstrap.
-- Herramientas de Desarrollo: Git, VSCode, Docker.
+- Lenguajes de Programación y frameworks con los que he trabajado: Python, React, NextJS, Node, TypeScript, JavaScript, java...
+- Herramientas de Desarrollo: Git, VSCode, Docker, IntelliJ.
 
 ## Contacto
 
