@@ -31,7 +31,7 @@ Thanks for visiting my profile!
 ## Proyectos Destacados
 
 - [RestoManager](https://github.com/Gurjant002/restoManager.git): Una aplicación web desarrollada en Django y MySQL para optimizar la gestión de servicios en restaurantes.
-- - [G-Book](https://github.com/Gurjant002/book_house): Próximamente: G-Books, una plataforma web que ofrecerá préstamos gratuitos de libros en panyabí a los residentes de Valencia. Un espacio virtual donde el idioma, la literatura y la cultura panyabí encuentran un hogar moderno y accesible.
+- [G-Book](https://github.com/Gurjant002/book_house): Próximamente: G-Books, una plataforma web que ofrecerá préstamos gratuitos de libros en panyabí a los residentes de Valencia. Un espacio virtual donde el idioma, la literatura y la cultura panyabí encuentran un hogar moderno y accesible.
 - [API-G_Book](https://github.com/Gurjant002/api_g_books): Próximamente: G-Books, una plataforma web que ofrecerá préstamos gratuitos de libros en panyabí a los residentes de Valencia. Un espacio virtual donde el idioma, la literatura y la cultura panyabí encuentran un hogar moderno y accesible.
 
 ## Tecnologías que Utilizo
