@@ -6,6 +6,8 @@ Hello! I'm Gurjant Singh, a passionate software development and technology enthu
 ## Featured Projects
 
 - [RestoManager](https://github.com/Gurjant002/restoManager.git): A web application developed in Django and MySQL to optimize restaurant service management.
+- [G-Book](https://github.com/Gurjant002/book_house): Coming soon: G-Books, a web platform offering free Punjabi book lending to residents of Valencia. A virtual space where language, literature, and Punjabi culture find a modern and accessible home.
+- [API-G_Book](https://github.com/Gurjant002/api_g_books): Coming soon: G-Books, a web platform offering free Punjabi book lending to residents of Valencia. A virtual space where language, literature, and Punjabi culture find a modern and accessible home.
 
 ## Technologies I Use
 
@@ -13,7 +15,7 @@ Hello! I'm Gurjant Singh, a passionate software development and technology enthu
 - Development Tools: Git, VSCode, Docker, IntelliJ.
 
 ## Portfolio
-(Currently under development) [gurjant.eu](https://gurjant.eu)
+[gurjant.eu](https://gurjant.eu)
 
 ## Contact
 
@@ -29,6 +31,8 @@ Thanks for visiting my profile!
 ## Proyectos Destacados
 
 - [RestoManager](https://github.com/Gurjant002/restoManager.git): Una aplicación web desarrollada en Django y MySQL para optimizar la gestión de servicios en restaurantes.
+- - [G-Book](https://github.com/Gurjant002/book_house): Próximamente: G-Books, una plataforma web que ofrecerá préstamos gratuitos de libros en panyabí a los residentes de Valencia. Un espacio virtual donde el idioma, la literatura y la cultura panyabí encuentran un hogar moderno y accesible.
+- [API-G_Book](https://github.com/Gurjant002/api_g_books): Próximamente: G-Books, una plataforma web que ofrecerá préstamos gratuitos de libros en panyabí a los residentes de Valencia. Un espacio virtual donde el idioma, la literatura y la cultura panyabí encuentran un hogar moderno y accesible.
 
 ## Tecnologías que Utilizo
 
@@ -36,7 +40,7 @@ Thanks for visiting my profile!
 - Herramientas de Desarrollo: Git, VSCode, Docker, IntelliJ.
 
 ## Portfolio
-(Está en desarrollo) [gurjant.eu](https://gurjant.eu)
+[gurjant.eu](https://gurjant.eu)
 
 ## Contacto
 
